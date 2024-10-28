@@ -1,6 +1,6 @@
 # Classes Facial Recognition Attendance App
 
-Done by : Kamous Yahya
+Done by : Kamous Yahya , 
           Dec 2022
 1. Overview
 The Classes Facial Recognition Attendance App is a smart attendance management system that uses facial recognition technology to automate the process of taking attendance. It allows users to register their faces and mark attendance seamlessly.
