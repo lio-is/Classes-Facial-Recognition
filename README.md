@@ -27,7 +27,7 @@ Prerequisites
 Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Facial-Recognition-Attendance.git
+   git clone https://github.com/lio-is/Facial-Recognition-Attendance.git
    cd Facial-Recognition-Attendance
 Install Dependencies
 
